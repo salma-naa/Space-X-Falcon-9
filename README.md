@@ -6,5 +6,6 @@ This project includes all necessary steps :
 - Data Collection
 - Data Wrangling 
 - Exploring and Preparing Data using SQL and Data VIZ
+- Building Maps using Folium
 - Building a dashboard to analyze launch records interactively with Plotly Dash
 - Building a prediction ML to determine if the first stage will successfully land.
